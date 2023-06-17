@@ -3,7 +3,5 @@ sunil
 suresh
 sudheer
 sumanth
-<<<<<<< HEAD
 sushanth
-=======
->>>>>>> 4660a31d16a7cd9b9a8054f33c33e241a65ff61d
+kumar
